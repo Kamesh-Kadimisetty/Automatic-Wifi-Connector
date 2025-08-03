@@ -1,4 +1,4 @@
-# WiFi Connector - Hostel WiFi Automation
+# Automatic WiFi Connector - Hostel WiFi Automation
 
 Automate your hostel WiFi login process! This tool automatically detects when you need to authenticate with your hostel's captive portal and handles the login process for you.
 
